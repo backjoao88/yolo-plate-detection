@@ -1,0 +1,1 @@
+./darknet detector test $2/obj.data $3 $1 -dont_show < $2/valid.txt > $1_$4_fps.txt 2>&1

@@ -1,0 +1,12 @@
+/datasets
+/data_lprbr_base
+/tests
+/results
+/outputs
+/datasets
+./*.rar
+./*.zip
+client_secrets.json
+credentials.json
+/__pycache__
+./__pycache__/credentials.cpython-36.pyc
